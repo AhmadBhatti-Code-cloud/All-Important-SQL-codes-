@@ -14,6 +14,7 @@ where
 @lastname = LastName or
 @city = City )
 
-print 'Ooh Bhai! Record already exist'
+print '  Record already exist'
 end 
+
 exec duplication_find 105 , 'Vegeta','King','Universe 7'
